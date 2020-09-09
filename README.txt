@@ -1,3 +1,17 @@
+For this project I designed and developed my own page ranking algorithm to build a search engine for the Wikipedia dataset for the module 'Big Data Processing'.
+As team leader of this project I divided the work load into subtasks and ensured the smooth collaboration amongst members.
+
+See 'Report.pdf' for the full report of this project including the research that was conducted to develop a pank rank algorithm 
+to outperform Wikipedia's existing search engine.
+
+This project made use of: Hadoop, MapReduce and Java.
+
+All requirments and bonus tasks were completed. 
+This project was graded a score of 88/100.
+
+
+Instructions to Run the Search Engine:
+
 To run this Search Engine, the folder from which the terminal is running should contain the following:
 1. src: contains all the .java files
 2. dist: contains the jar that the command "ant clean dist" will create
