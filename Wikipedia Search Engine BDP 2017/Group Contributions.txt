@@ -1,0 +1,50 @@
+Group contributions:
+
+All members contributed fairly in this group project.
+
+Main class:
+Ability to read in search word from terminal - Akhil, Partiban 
+Allowing data flow through mapreduce jobs - Partiban
+Passing search term to all mappers - Partiban, Akhil
+
+
+Job 1: Inverted index
+Research into building inverted index - Qaiser
+Parsing the wikipedia dataset - Harrishan, Shareef, Akhil
+Building the inverted index - Harrishan, Qaiser
+
+Job2: Page Rank
+Research in other search engines page ranking features - Harrishan, Partiban, Akhil and Qaiser
+
+Structuring, planning  and formulating page rank algorithm - Harrishan
+Element extraction for headers,bold,italics - Partiban
+Element extraction for page title - Shareef and Qaiser
+Element extraction for contributions per wiki page - Harrishan
+Element extraction for links - Partiban
+Priority assignment for element tags - Harrishan, Partiban
+Priority assignment using Keyword densities - Harrishan
+Spam Filtering - Harrishan
+
+
+Job 3: Top 10 results
+Implementing hashmaps - Akhil
+Use of merge sort algorithm for sorting - Akhil
+Sorting in reducer - Shareef, Akhil
+
+Report:
+Organising report structure- Harrishan and Shareef
+Contents- Qaiser
+
+Design Rationale - Harrishan, Partiban, Akhil, Shareef, Qaiser
+Job flow diagram - Harrishan
+Obtaining element tags - Partiban
+Element priority table - Partiban, Harrishan
+Research into keyword densities - Harrishan
+Data collection for Keyword density research - Harrishan, Shareef, Akhil and Qaiser
+Data analysis for Keyword Densities - Harrishan
+Keyword densities results graphs - Qaiser
+Explanation of methods - Shareef, Harrishan, Partiban
+Top 10 results - Akhil
+Obtaining results - Harrishan, Partiban, Shareef and Qaiser
+Results table - Harrishan and Shareef
+Evaluation of results - Harrishan, Partiban, Shareef and Qaiser
